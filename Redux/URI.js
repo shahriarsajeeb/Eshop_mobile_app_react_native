@@ -1,0 +1,1 @@
+export const URI = "https://mern-ecommerce-stores.herokuapp.com"
